@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クリームソーダ",
+  "base_artist": "インナージャーニー",
+  "createdAt": "2025-12-20T10:58:16.114930Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クリームソーダ",
+      "artist": "インナージャーニー",
+      "has_synced": false,
+      "path": "select/pl_01_クリームソーダ_インナージャーニー.txt"
+    }
+  ]
+}
